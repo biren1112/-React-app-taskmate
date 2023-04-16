@@ -6,8 +6,8 @@ function App() {
 
   function handleAdd() {
     setCount(count => count + 1);
-    setCount(count => count + 1);
-    setCount(count => count + 1);
+    // setCount(count => count + 1);
+    // setCount(count => count + 1);
 
   }
 
